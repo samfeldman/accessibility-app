@@ -1,0 +1,65 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  division: MyString
+  line: MyString
+  station_name: MyString
+  station_latitude: MyString
+  station_longitude: MyString
+  route_1: MyString
+  route_2: MyString
+  route_3: MyString
+  route_4: MyString
+  route_5: MyString
+  route_6: MyString
+  route_7: MyString
+  route_8: MyString
+  route_9: MyString
+  route_10: MyString
+  route_11: MyString
+  entrance_type: MyString
+  entry: MyString
+  exit_only: MyString
+  vending: MyString
+  staffing: MyString
+  staff_hours: MyString
+  ADA: MyString
+  ADA_notes: MyString
+  free_crossover: MyString
+  north_south_street: MyString
+  east_west_street: MyString
+  corner: MyString
+  latitude: MyString
+  longitude: MyString
+
+two:
+  division: MyString
+  line: MyString
+  station_name: MyString
+  station_latitude: MyString
+  station_longitude: MyString
+  route_1: MyString
+  route_2: MyString
+  route_3: MyString
+  route_4: MyString
+  route_5: MyString
+  route_6: MyString
+  route_7: MyString
+  route_8: MyString
+  route_9: MyString
+  route_10: MyString
+  route_11: MyString
+  entrance_type: MyString
+  entry: MyString
+  exit_only: MyString
+  vending: MyString
+  staffing: MyString
+  staff_hours: MyString
+  ADA: MyString
+  ADA_notes: MyString
+  free_crossover: MyString
+  north_south_street: MyString
+  east_west_street: MyString
+  corner: MyString
+  latitude: MyString
+  longitude: MyString
